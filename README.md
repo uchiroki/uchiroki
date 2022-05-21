@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+
+This account is for company use. If you would like to see private activities, please click the following URL.
+https://github.com/nikuyoshi
+
+* 🔭 I'm currently working on Amazon Web Services Japan as Solutions Architect.
 
 <!--
 **uchiroki/uchiroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
